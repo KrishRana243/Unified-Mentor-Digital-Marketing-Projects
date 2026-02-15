@@ -1,6 +1,6 @@
-## Digital Marketing Projects by Krish Rana
+# Digital Marketing Projects by Krish Rana
 
-## Project 1: Website Audit & Digital Marketing Implementation
+### Project 1: Website Audit & Digital Marketing Implementation
 
 ## 1. Introduction
 
