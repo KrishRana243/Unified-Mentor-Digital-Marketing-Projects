@@ -312,9 +312,134 @@ The on-page SEO audit showed that MyCaptain has strong design and offerings but 
 
 ---
 
+---
+
+# **PROJECT REPORT 5**
+
+## **Technical SEO Audit & Optimization**
+
+### **Organization:** MyCaptain
+
+### **Project Type:** Technical SEO Audit
+
+### **Domain:** E-Learning
+
+---
+
+## **1. Introduction**
+
+MyCaptain is an online learning platform that offers career-oriented courses with mentorship support. While the platform has a modern design and valuable content, technical SEO plays a crucial role in ensuring that the website is:
+
+* Easily crawlable by search engines
+* Properly indexed
+* Fast and mobile-friendly
+
+A technical SEO audit was conducted to identify issues affecting search engine performance, user experience, and overall website health.
+
+---
+
+## **2. Objectives**
+
+The main objectives of this technical SEO audit were:
+
+* Improve website speed and performance
+* Fix crawlability and indexing issues
+* Ensure mobile responsiveness
+* Optimize technical elements for better search rankings
+* Strengthen the website’s technical SEO foundation
+
+---
+
+## **3. Tools & Methodology**
+
+The audit was conducted using:
+
+* **Ubersuggest** – for technical issue detection
+* **PageSpeed tools** – for performance analysis
+* Manual testing – for mobile responsiveness and usability
+
+### **Audit Areas Covered**
+
+* Page speed and Core Web Vitals
+* Crawlability and indexing
+* Mobile-friendliness
+* JavaScript and DOM structure
+* Structured data implementation
+
+---
+
+## **4. Key Issues Identified**
+
+### **4.1 Performance Issues**
+
+* Slow page speed due to heavy images
+* Large DOM size caused by repeated sections
+* Heavy JavaScript affecting loading time
+
+### **4.2 Crawlability & Indexing Issues**
+
+* Missing or unclear XML sitemap
+* Lack of structured data (schema markup)
+
+### **4.3 Technical Structure Issues**
+
+* Unoptimized images
+* Unnecessary scripts and code
+* Repeated homepage elements increasing page weight
+
+---
+
+## **5. Solutions & Optimization Strategies**
+
+### **5.1 Speed Optimization**
+
+* Compress large images
+* Convert images to **WebP format**
+* Minify CSS and JavaScript files
+* Defer non-critical scripts
+
+### **5.2 Technical Improvements**
+
+* Remove duplicate homepage sections
+* Reduce DOM size
+* Optimize code structure
+
+### **5.3 Crawlability & Indexing Fixes**
+
+* Create and submit an **XML sitemap**
+* Add structured data (schema) for:
+
+  * Courses
+  * Reviews
+  * Organization details
+
+---
+
+## **6. Expected Results**
+
+After implementing the technical fixes, the website is expected to achieve:
+
+* Faster loading speed
+* Improved Core Web Vitals scores
+* Better crawl efficiency
+* Higher search engine rankings
+* Increased organic traffic
+
+---
+
+## **7. Conclusion**
+
+The technical SEO audit of MyCaptain revealed that while the website has a modern design and secure HTTPS setup, several technical factors were limiting its performance. Key issues included slow page speed, large DOM size, missing structured data, and lack of a visible XML sitemap.
+
+By implementing the recommended solutions—such as image optimization, script minimization, schema markup, and sitemap creation—the website can significantly improve its technical health. These improvements will enhance crawlability, indexing, speed, and overall search engine performance.
+
+With proper technical optimization, MyCaptain can build a strong foundation for long-term SEO growth and improved user experience.
+
+---
+
 ## **Final Note**
 
-These **four projects together demonstrate strong skills in:**
+These **five projects together demonstrate strong skills in:**
 
 * Website auditing
 * SEO (On-page & Technical)
