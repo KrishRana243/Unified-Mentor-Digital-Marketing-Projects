@@ -7,7 +7,7 @@ Project 1: Website Audit & Digital Marketing Implementation
 Unified Mentor is an online e-learning platform that provides skill-based courses along with mentorship. The website plays a major role in lead generation, brand credibility, and user engagement.
 A complete website audit and digital marketing strategy was conducted to improve the platform’s performance, visibility, and conversion rates. 
 
-2. Objectives
+## 2. Objectives
 
 * Analyze the website for on-page, off-page, technical, and content-related issues.
 
@@ -17,13 +17,13 @@ A complete website audit and digital marketing strategy was conducted to improve
 
 * Build a comprehensive digital marketing strategy. 
 
-3. Tools Used
+## 3. Tools Used
 
-*Ubersuggest for SEO audit
+* Ubersuggest for SEO audit
 
-*Manual user experience testing
+* Manual user experience testing
 
-*Competitor comparison
+* Competitor comparison
 
 4. Key Issues Identified
 SEO Issues
