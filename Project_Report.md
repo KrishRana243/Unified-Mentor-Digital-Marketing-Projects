@@ -9,13 +9,13 @@ A complete website audit and digital marketing strategy was conducted to improve
 
 2. Objectives
 
-*Analyze the website for on-page, off-page, technical, and content-related issues.
+* Analyze the website for on-page, off-page, technical, and content-related issues.
 
-*Improve user experience and navigation.
+* Improve user experience and navigation.
 
-*Increase organic traffic and lead generation.
+* Increase organic traffic and lead generation.
 
-*Build a comprehensive digital marketing strategy. 
+* Build a comprehensive digital marketing strategy. 
 
 3. Tools Used
 
