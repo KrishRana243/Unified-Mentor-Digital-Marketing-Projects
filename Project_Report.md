@@ -322,5 +322,3 @@ These **four projects together demonstrate strong skills in:**
 * Social media advertising (Meta Ads)
 
 
-
-Just tell me 👍
